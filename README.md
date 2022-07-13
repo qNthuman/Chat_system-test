@@ -1,2 +1,6 @@
 # Chat_system-test
-just a basic test for a chat system
+
+This is a chat system, tah currently supports local host to localsost connection.
+it is an example of tcp.
+
+
